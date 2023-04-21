@@ -1,0 +1,16 @@
+.container {
+        display: flex;
+        align-items: center;
+}
+
+img {
+        max-width: 50%;
+        margin-right: 2rem;
+        border-radius: 20px;
+}
+
+.content {
+        flex: 1;
+        font-family: 'Averia Libre', cursive;
+        color: darkgrey;
+}
